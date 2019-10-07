@@ -1,4 +1,4 @@
-package com.cdric.androidtestutils;
+package com.flowbird.testutils;
 
 public class WaitCondition {
 
